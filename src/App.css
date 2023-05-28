@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+body {
+    /* background-color: #ffe9db !important; */
+    background-image: url("../public/images/background.png") !important;
+    background-repeat: repeat !important;
+}
+.main {
+    max-width: 960px;
+    margin: 0px auto;
+    padding: 0px 15px;
+    min-height: 100vh;
+}
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+}
