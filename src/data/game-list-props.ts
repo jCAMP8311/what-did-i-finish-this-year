@@ -154,4 +154,52 @@ export const GameListProps2023 = [
         rating: '3',
         review: 'Introduces us to one of the most interesting and highest potential of recent Jedi. Not a soulslike.'
     },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.47254.69768431406041041.e1386476-b377-413b-9457-1f5559dbb168.1729d161-6022-4368-b67d-128946d0ca78?q=90&w=177&h=265',
+        title: 'Dead Space',
+        platform: 'xbox',
+        completion: true,
+        rating: '4',
+        review: 'Still holds up as one the greatest hororr games of all time.'
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.25575.13710698285394664.b69d40fa-3b9c-47c8-b252-b52cae59523c.f7b6e42a-3b1a-437f-977b-dfa2cf28911e?q=90&w=177&h=265',
+        title: 'Dead Space',
+        platform: 'xbox',
+        completion: false,
+        rating: '4',
+        review: 'Probably the best remake ever made.'
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.11179.13814785456466922.4e78e496-4e8c-4f2c-93df-55ea1fa48e05.0d64da1c-8197-4d17-ba47-9e7494b62f6e?q=90&w=177&h=265',
+        title: 'Hogwarts Legacy',
+        platform: 'xbox',
+        completion: false,
+        rating: '3',
+        review: 'Basically an Ubisoft Harry Potter game. Still very much enjoyed.'
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.16870.66681981221768345.76a0e962-989c-428d-a0d4-5b11187fa034.dc854494-6300-43e4-962b-2acb344965f8?q=90&w=177&h=265',
+        title: 'Wolfenstein II: The New Colossus',
+        platform: 'xbox',
+        completion: false,
+        rating: '3',
+        review: 'Mega murdering Nazis has never been so fun.'
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.48244.14634955238674857.649b7ff9-0dfc-4951-9b65-c5d815215da6.e294fb96-a4ec-4326-8521-381109382345?q=90&w=177&h=265',
+        title: 'Deathloop',
+        platform: 'xbox',
+        completion: false,
+        rating: '3',
+        review: `Even though this game had mega marketing and great reviews I still think it's slept on.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.58100.14188092651145353.c3919981-fb28-4755-b504-a3b021220351.2419b143-136d-49b0-bd5f-7fe2a99d679d?q=90&w=177&h=265',
+        title: 'Star Wars: Jedi Survivor',
+        platform: 'xbox',
+        completion: false,
+        rating: '3',
+        review: `Really loved this game. Would be a 4/4 but the last quarter of the story didn't do much for me.`
+    },
 ]

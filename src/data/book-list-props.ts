@@ -26,4 +26,10 @@ export const BookListProps2023 = [
         rating: '4',
         review: 'Phenominal.'
     },
+    {
+        cover: 'https://m.media-amazon.com/images/I/51qPyqGg6YL._SX327_BO1,204,203,200_.jpg',
+        title: `Star Wars Jedi: Battle Scars`,
+        rating: '2',
+        review: 'Half this book is Merrins inner dialogue drooling over an empire traitor they found on a rock. The other half is pretty mid'
+    },
 ]
