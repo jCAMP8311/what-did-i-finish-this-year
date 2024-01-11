@@ -202,4 +202,63 @@ export const GameListProps2023 = [
         rating: '3',
         review: `Really loved this game. Would be a 4/4 but the last quarter of the story didn't do much for me.`
     },
+        {
+        cover: 'https://store-images.s-microsoft.com/image/apps.59767.13692859679694975.e75973fd-baa7-4055-b1d0-e3c20f0de58f.a441af0a-a76d-4258-85ef-b1f0174c3dfe',
+        title: 'Street Fighter 6',
+        platform: 'xbox',
+        completion: false,
+        rating: '4',
+        review: `Never played much street fighter, but goddamn I fell in love with this game HARD. World tour is a really solid single player story driven fighting game experience.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.15385.14007497573636681.4ee0da90-8866-4e78-bc18-31395aa61837.794c9932-4346-4da4-86ed-5e5c1110a544?q=90&w=177&h=265',
+        title: 'Mortal Kombat 1',
+        platform: 'xbox',
+        completion: false,
+        rating: '2',
+        review: `Fun story mode, but ultimately the invasions mode is huge let down and the kameo system isn't interesting enough to keep me coming back.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.35047.13585635964324649.00df346b-0681-4a93-8d2a-a3b2ba4e8822.ca207dd4-a85c-4359-9a8f-d2e3389c0e0a?q=90&w=177&h=265',
+        title: 'The Expanse: A Telltale Series',
+        platform: 'xbox',
+        completion: false,
+        rating: '3',
+        review: `A solid entry and satisfying prequel the The Expanse series. Telltale have come a long way.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.46837.14016784756610835.ef385530-19dc-4258-a580-04c303cc6b03.ee095130-c7c7-46f7-b5a6-a365528bc9bb?q=90&w=177&h=265',
+        title: 'GRIS',
+        platform: 'xbox',
+        completion: false,
+        rating: '4',
+        review: `A masterpiece of visual storytelling. The art style and set pieces are jawdropping.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.8000.14167207133116460.47e9afed-5648-49f3-aa78-034a762fbc26.5d6dba1a-d04e-42aa-9dc2-9286e72dc007?q=90&w=177&h=265',
+        title: 'Lies of P',
+        platform: 'xbox',
+        completion: false,
+        rating: '4',
+        review: `One of the best and most enjoyable soulslikes I've ever played. Really want to 100% this one day.`
+    },
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.11593.13550459053619040.9c555c73-a698-4992-b0f3-c5084cf18b5e.82a9ea41-c628-4d02-8a0f-d0304eba31c7?q=90&w=177&h=265',
+        title: `Baldur's Gate 3`,
+        platform: '',
+        completion: false,
+        rating: '4',
+        review: `One of the best games ever made, probably my favorite. A literal masterpiece I can't think of anything else to say that hasn't already been said.`
+    },
+]
+
+export const GameListProps2024 = [
+    {
+        cover: 'https://store-images.s-microsoft.com/image/apps.59506.68305158041316318.0f0a9a69-7791-4529-bb3d-119342be58d6.5aa0b0b4-f5f1-4217-a684-d936aea8692e?q=90&w=177&h=265',
+        title: `Batman: The Telltale Series`,
+        platform: 'xbox',
+        completion: true,
+        rating: '2',
+        review: `Decent story, kinda janky.`
+    },
 ]
